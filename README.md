@@ -1,7 +1,7 @@
 # DodgePractice
 
 
-Please run this file
+Run this file!
 
 ![image](https://user-images.githubusercontent.com/86655689/157792913-a6370912-6952-4940-859b-dd6be42e3127.png)
 
